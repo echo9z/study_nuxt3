@@ -1,0 +1,4 @@
+/* 引入tailwind.css类似于ui库 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
